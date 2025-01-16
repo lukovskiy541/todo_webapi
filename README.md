@@ -31,8 +31,8 @@ This project is a web API for managing a to-do list (Todo Items) with support fo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/todo_webapi.git
+   git clone https://github.com/lukovskiy541/todo_webapi
    cd todo_webapi
 2. Run the project:
-   '''bash
+   ```bash
    dotnet run
