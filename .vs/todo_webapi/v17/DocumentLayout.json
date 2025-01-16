@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\cSharp_solutions\\todo_webapi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E07835B-9432-409D-A7BB-F0C443F673A2}|todo_webapi.csproj|c:\\dev\\csharp_solutions\\todo_webapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E07835B-9432-409D-A7BB-F0C443F673A2}|todo_webapi.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E07835B-9432-409D-A7BB-F0C443F673A2}|todo_webapi.csproj|c:\\dev\\csharp_solutions\\todo_webapi\\data\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E07835B-9432-409D-A7BB-F0C443F673A2}|todo_webapi.csproj|solutionrelative:data\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E07835B-9432-409D-A7BB-F0C443F673A2}|todo_webapi.csproj|c:\\dev\\csharp_solutions\\todo_webapi\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E07835B-9432-409D-A7BB-F0C443F673A2}|todo_webapi.csproj|solutionrelative:data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E07835B-9432-409D-A7BB-F0C443F673A2}|todo_webapi.csproj|c:\\dev\\csharp_solutions\\todo_webapi\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E07835B-9432-409D-A7BB-F0C443F673A2}|todo_webapi.csproj|solutionrelative:controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E07835B-9432-409D-A7BB-F0C443F673A2}|todo_webapi.csproj|c:\\dev\\csharp_solutions\\todo_webapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E07835B-9432-409D-A7BB-F0C443F673A2}|todo_webapi.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E07835B-9432-409D-A7BB-F0C443F673A2}|todo_webapi.csproj|c:\\dev\\csharp_solutions\\todo_webapi\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E07835B-9432-409D-A7BB-F0C443F673A2}|todo_webapi.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E07835B-9432-409D-A7BB-F0C443F673A2}|todo_webapi.csproj|c:\\dev\\csharp_solutions\\todo_webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E07835B-9432-409D-A7BB-F0C443F673A2}|todo_webapi.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E07835B-9432-409D-A7BB-F0C443F673A2}|todo_webapi.csproj|c:\\dev\\csharp_solutions\\todo_webapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E07835B-9432-409D-A7BB-F0C443F673A2}|todo_webapi.csproj|solutionrelative:models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E07835B-9432-409D-A7BB-F0C443F673A2}|todo_webapi.csproj|c:\\dev\\csharp_solutions\\todo_webapi\\todo_webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4E07835B-9432-409D-A7BB-F0C443F673A2}|todo_webapi.csproj|solutionrelative:todo_webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E07835B-9432-409D-A7BB-F0C443F673A2}|todo_webapi.csproj|c:\\dev\\csharp_solutions\\todo_webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E07835B-9432-409D-A7BB-F0C443F673A2}|todo_webapi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E07835B-9432-409D-A7BB-F0C443F673A2}|todo_webapi.csproj|c:\\dev\\csharp_solutions\\todo_webapi\\todo_webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4E07835B-9432-409D-A7BB-F0C443F673A2}|todo_webapi.csproj|solutionrelative:todo_webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E07835B-9432-409D-A7BB-F0C443F673A2}|todo_webapi.csproj|c:\\dev\\csharp_solutions\\todo_webapi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E07835B-9432-409D-A7BB-F0C443F673A2}|todo_webapi.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E07835B-9432-409D-A7BB-F0C443F673A2}|todo_webapi.csproj|c:\\dev\\csharp_solutions\\todo_webapi\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E07835B-9432-409D-A7BB-F0C443F673A2}|todo_webapi.csproj|solutionrelative:models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E07835B-9432-409D-A7BB-F0C443F673A2}|todo_webapi.csproj|c:\\dev\\csharp_solutions\\todo_webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E07835B-9432-409D-A7BB-F0C443F673A2}|todo_webapi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\dev\\cSharp_solutions\\todo_webapi\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\dev\\cSharp_solutions\\todo_webapi\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T08:06:26.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\dev\\cSharp_solutions\\todo_webapi\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "Data\\SeedData.cs",
+              "ToolTip": "C:\\dev\\cSharp_solutions\\todo_webapi\\Data\\SeedData.cs",
+              "RelativeToolTip": "Data\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T07:56:54.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "todo_webapi",
+              "DocumentMoniker": "C:\\dev\\cSharp_solutions\\todo_webapi\\todo_webapi.csproj",
+              "RelativeDocumentMoniker": "todo_webapi.csproj",
+              "ToolTip": "C:\\dev\\cSharp_solutions\\todo_webapi\\todo_webapi.csproj",
+              "RelativeToolTip": "todo_webapi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-16T07:56:10.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\dev\\cSharp_solutions\\todo_webapi\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\dev\\cSharp_solutions\\todo_webapi\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T07:18:30.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\dev\\cSharp_solutions\\todo_webapi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\dev\\cSharp_solutions\\todo_webapi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:30:55.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\dev\\cSharp_solutions\\todo_webapi\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginModel.cs",
+              "ToolTip": "C:\\dev\\cSharp_solutions\\todo_webapi\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:28:58.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\dev\\cSharp_solutions\\todo_webapi\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterModel.cs",
+              "ToolTip": "C:\\dev\\cSharp_solutions\\todo_webapi\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "Models\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:28:30.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\dev\\cSharp_solutions\\todo_webapi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\dev\\cSharp_solutions\\todo_webapi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-16T06:25:05.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\dev\\cSharp_solutions\\todo_webapi\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\dev\\cSharp_solutions\\todo_webapi\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:19:43.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoItemsController.cs",
+              "DocumentMoniker": "C:\\dev\\cSharp_solutions\\todo_webapi\\Controllers\\TodoItemsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TodoItemsController.cs",
+              "ToolTip": "C:\\dev\\cSharp_solutions\\todo_webapi\\Controllers\\TodoItemsController.cs",
+              "RelativeToolTip": "Controllers\\TodoItemsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:01:40.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\cSharp_solutions\\todo_webapi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\dev\\cSharp_solutions\\todo_webapi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T10:57:53.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoContext.cs",
+              "DocumentMoniker": "C:\\dev\\cSharp_solutions\\todo_webapi\\Data\\TodoContext.cs",
+              "RelativeDocumentMoniker": "Data\\TodoContext.cs",
+              "ToolTip": "C:\\dev\\cSharp_solutions\\todo_webapi\\Data\\TodoContext.cs",
+              "RelativeToolTip": "Data\\TodoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T10:53:11.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\dev\\cSharp_solutions\\todo_webapi\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "Models\\TodoItem.cs",
+              "ToolTip": "C:\\dev\\cSharp_solutions\\todo_webapi\\Models\\TodoItem.cs",
+              "RelativeToolTip": "Models\\TodoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T10:50:21.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "todo_webapi",
+              "DocumentMoniker": "C:\\dev\\cSharp_solutions\\todo_webapi\\todo_webapi.csproj",
+              "RelativeDocumentMoniker": "todo_webapi.csproj",
+              "ToolTip": "C:\\dev\\cSharp_solutions\\todo_webapi\\todo_webapi.csproj",
+              "RelativeToolTip": "todo_webapi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-14T10:43:50.957Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
