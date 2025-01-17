@@ -4,17 +4,22 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using System.Text;
-using todo_webapi.Data;
-using todo_webapi.Models;
-
+using todo_webapi.Core.Entities;
+using todo_webapi.Filters;
+using TodoApp.Application.Interfaces;
+using TodoApp.Application.Services;
+using TodoApp.Infrastructure.Data;
+using TodoApp.Infrastructure.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
-builder.Services.AddControllers();
-builder.Services.AddDbContext<TodoContext>(opt =>
-    opt.UseInMemoryDatabase("TodoList"));
+builder.Services.AddControllers(options =>
+{
+    options.Filters.Add<GlobalExceptionFilter>();
+});
+builder.Services.AddInMemoryDatabase();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c =>
@@ -45,9 +50,12 @@ builder.Services.AddSwaggerGen(c =>
         }
     });
 });
-builder.Services.AddIdentity<ApplicationUser, IdentityRole>()
-    .AddEntityFrameworkStores<TodoContext>()
-    .AddDefaultTokenProviders();
+
+builder.Services.AddScoped<IToDoItemRepository, ToDoItemRepository>();
+builder.Services.AddScoped<IToDoItemService, ToDoItemService>();
+
+
+
 
 builder.Services.AddAuthentication(options =>
 {
@@ -69,6 +77,8 @@ builder.Services.AddAuthentication(options =>
 });
 
 
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -87,8 +97,8 @@ app.MapControllers();
 
 using (var scope = app.Services.CreateScope())
 {
-    var services = scope.ServiceProvider;
-    await SeedData.Initialize(services); 
+    var context = scope.ServiceProvider.GetRequiredService<AppDbContext>();
+    SeedData(context);
 }
 
 app.Run();
