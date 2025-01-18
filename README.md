@@ -1,38 +1,34 @@
-# Todo WebAPI
+# Clean Architecture Todo API
 
-This project is a web API for managing a to-do list (Todo Items) with support for categories and user authentication. It uses an **InMemory** database, so no external database setup is required.
+A Todo list API built with ASP.NET Core 8 following Clean Architecture principles.
 
-## Key Features
+## Architecture Layers
 
-- **Todo Items Management**:
-  - Add, edit, delete, and retrieve todo items.
-  - Mark todo items as completed.
-- **Categories**:
-  - Each todo item can belong to a specific category (e.g., "Work", "Personal").
-- **Authentication and Authorization**:
-  - User registration and login.
-  - JWT (JSON Web Token) for API security.
+- **Domain**: Entities and business rules
+- **Application**: Services and DTOs
+- **Infrastructure**: Data persistence and external concerns
+- **API**: Controllers and configuration
 
-## Technologies
+## Tech Stack
 
-- **Backend**: ASP.NET Core
-- **Database**: Entity Framework Core (InMemory)
-- **Authentication**: JWT (JSON Web Token)
-- **API Documentation**: Swagger/OpenAPI
+- ASP.NET Core 8
+- Entity Framework Core (InMemory)
+- JWT Authentication
+- Swagger/OpenAPI
 
-## How to Run the Project
+## Quick Start
 
-### Prerequisites
+1. Clone:
+```bash
+git clone https://github.com/lukovskiy541/todo_webapi
+```
 
-- [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
-- IDE (e.g., [Visual Studio](https://visualstudio.microsoft.com/) or [Visual Studio Code](https://code.visualstudio.com/))
+2. Run:
+```bash
+dotnet run
+```
 
-### Steps
+## Requirements
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/lukovskiy541/todo_webapi
-   cd todo_webapi
-2. Run the project:
-   ```bash
-   dotnet run
+- .NET 8 SDK
+- Visual Studio 2022 or VS Code
